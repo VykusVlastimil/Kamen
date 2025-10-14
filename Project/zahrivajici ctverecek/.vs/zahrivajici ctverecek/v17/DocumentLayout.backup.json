@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vykusv24\\Desktop\\Kamen\\Solution\\vis-stu\\monogame\\zahrivajici ctverecek\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DA8EC0F-AAB2-4021-A7B8-CB7AA13EF254}|zahrivajici ctverecek.csproj|c:\\users\\vykusv24\\desktop\\kamen\\solution\\vis-stu\\monogame\\zahrivajici ctverecek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DA8EC0F-AAB2-4021-A7B8-CB7AA13EF254}|zahrivajici ctverecek.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DA8EC0F-AAB2-4021-A7B8-CB7AA13EF254}|zahrivajici ctverecek.csproj|c:\\users\\vykusv24\\desktop\\kamen\\solution\\vis-stu\\monogame\\zahrivajici ctverecek\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DA8EC0F-AAB2-4021-A7B8-CB7AA13EF254}|zahrivajici ctverecek.csproj|solutionrelative:game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vykusv24\\Desktop\\Kamen\\Solution\\vis-stu\\monogame\\zahrivajici ctverecek\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\vykusv24\\Desktop\\Kamen\\Solution\\vis-stu\\monogame\\zahrivajici ctverecek\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T08:29:48.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "C:\\Users\\vykusv24\\Desktop\\Kamen\\Solution\\vis-stu\\monogame\\zahrivajici ctverecek\\Game1.cs",
+              "RelativeDocumentMoniker": "Game1.cs",
+              "ToolTip": "C:\\Users\\vykusv24\\Desktop\\Kamen\\Solution\\vis-stu\\monogame\\zahrivajici ctverecek\\Game1.cs",
+              "RelativeToolTip": "Game1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T08:29:20.248Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
