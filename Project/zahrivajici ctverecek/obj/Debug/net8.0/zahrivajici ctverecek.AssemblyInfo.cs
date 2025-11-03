@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("zahrivajici ctverecek")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0ef9ba8cec61713950778b4154452763ba6a528")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5bd968bbfc9eeac9c24006355c31ad12f212dea3")]
 [assembly: System.Reflection.AssemblyProductAttribute("zahrivajici ctverecek")]
 [assembly: System.Reflection.AssemblyTitleAttribute("zahrivajici ctverecek")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
