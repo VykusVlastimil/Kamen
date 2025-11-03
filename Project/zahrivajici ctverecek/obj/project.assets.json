@@ -296,11 +296,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vykusv24\\Desktop\\Kamen\\Solution\\vis-stu\\monogame\\zahrivajici ctverecek\\zahrivajici ctverecek.csproj",
+      "projectUniqueName": "C:\\Users\\vykusv24\\Desktop\\Kamen\\Solution\\Kamen\\Project\\zahrivajici ctverecek\\zahrivajici ctverecek.csproj",
       "projectName": "zahrivajici ctverecek",
-      "projectPath": "C:\\Users\\vykusv24\\Desktop\\Kamen\\Solution\\vis-stu\\monogame\\zahrivajici ctverecek\\zahrivajici ctverecek.csproj",
+      "projectPath": "C:\\Users\\vykusv24\\Desktop\\Kamen\\Solution\\Kamen\\Project\\zahrivajici ctverecek\\zahrivajici ctverecek.csproj",
       "packagesPath": "C:\\Users\\vykusv24\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vykusv24\\Desktop\\Kamen\\Solution\\vis-stu\\monogame\\zahrivajici ctverecek\\obj\\",
+      "outputPath": "C:\\Users\\vykusv24\\Desktop\\Kamen\\Solution\\Kamen\\Project\\zahrivajici ctverecek\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

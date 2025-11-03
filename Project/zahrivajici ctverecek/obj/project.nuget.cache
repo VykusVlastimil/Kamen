@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QB2RE2Ylul4=",
+  "dgSpecHash": "PTttIle4Ymg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\vykusv24\\Desktop\\Kamen\\Solution\\vis-stu\\monogame\\zahrivajici ctverecek\\zahrivajici ctverecek.csproj",
+  "projectFilePath": "C:\\Users\\vykusv24\\Desktop\\Kamen\\Solution\\Kamen\\Project\\zahrivajici ctverecek\\zahrivajici ctverecek.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vykusv24\\.nuget\\packages\\monogame.content.builder.task\\3.8.4\\monogame.content.builder.task.3.8.4.nupkg.sha512",
     "C:\\Users\\vykusv24\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.4\\monogame.framework.desktopgl.3.8.4.nupkg.sha512",
